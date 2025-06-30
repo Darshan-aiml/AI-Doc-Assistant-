@@ -1,0 +1,22 @@
+# Core packages
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+
+# Document parsing
+PyPDF2
+python-docx
+pdf2image
+docx2txt
+
+# OCR (optional but recommended for scanned PDFs/images)
+pytesseract
+Pillow
+
+# UI
+gradio
+
+# Utilities
+tqdm
+numpy
